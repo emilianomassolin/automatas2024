@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+export-2019-to-now-v4.csv
+*.csv
 
 # C extensions
 *.so
